@@ -1,20 +1,20 @@
-###Project Objective:
+### Project Objective:
 
 The primary goal of this initiative is to employ React.js for data visualization purposes. Leveraging the eChart.js library in JavaScript, which seamlessly integrates with React, facilitates robust support for visualization tasks.
 
-###React
+### React
 
 React stands as a cornerstone in the realm of open-source JavaScript libraries, meticulously maintained by Facebook. It serves as a versatile tool for crafting user interfaces (UI) and developing UI components with utmost efficiency.
 
-###ECharts
+### ECharts
 
 ECharts emerges as a potent JavaScript library tailored for visualization endeavors, built upon zrender. It furnishes a straightforward mechanism for embedding intuitive, interactive, and extensively customizable charts into applications.
 
-###Prerequisites
+### Prerequisites
 
 Before diving into the project setup, ensure that Node.js is installed on your system. If not, Node.js can be readily obtained from its official website.
 
-###Setup Procedure
+### Setup Procedure
 
 Let's kickstart the React project creation process by employing the npm package. Execute the following command in your command prompt/terminal:
 
@@ -34,6 +34,7 @@ npm install - save echarts
 Once again, run:
 
 `npm start`
+
 Voila! Witness an array of Line, Pie, and Polar charts materialize seamlessly on your web browser.
 
 Below, you'll find snapshots showcasing the data visualizations rendered by various charts:
