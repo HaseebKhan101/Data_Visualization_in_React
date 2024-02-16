@@ -43,8 +43,3 @@ Below, you'll find snapshots showcasing the data visualizations rendered by vari
 <img src="Screenshots/Radar_Chart.png" alt="Radar Chart" width="300" style="border: 1px solid black;">
 <img src="Screenshots/Bar_Chart.png" alt="Bar Chart" width="300" style="border: 1px solid black;">
 <img src="Screenshots/Line_chart.png" alt="Line Chart" width="300" style="border: 1px solid black;">
-
-![Doughnut Chart](Screenshots/Doughnut_chart.png)
-![Radar Chart](Screenshots/Radar_Chart.png)
-![Bar Chart](Screenshots/Bar_Chart.png)
-![Line Chart](Screenshots/Line_chart.png)
