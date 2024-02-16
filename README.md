@@ -28,8 +28,8 @@ Initiate the server:
 
 Next, proceed to install and incorporate ECharts into the project by executing the subsequent commands:
 
-npm install - save echarts-for-react
-npm install - save echarts
+`npm install - save echarts-for-react`
+`npm install - save echarts`
 
 Once again, run:
 
@@ -38,6 +38,11 @@ Once again, run:
 Voila! Witness an array of Line, Pie, and Polar charts materialize seamlessly on your web browser.
 
 Below, you'll find snapshots showcasing the data visualizations rendered by various charts:
+
+<img src="Screenshots/Doughnut_chart.png" alt="Doughnut Chart" width="300" style="border: 1px solid black;">
+<img src="Screenshots/Radar_Chart.png" alt="Radar Chart" width="300" style="border: 1px solid black;">
+<img src="Screenshots/Bar_Chart.png" alt="Bar Chart" width="300" style="border: 1px solid black;">
+<img src="Screenshots/Line_chart.png" alt="Line Chart" width="300" style="border: 1px solid black;">
 
 ![Doughnut Chart](Screenshots/Doughnut_chart.png)
 ![Radar Chart](Screenshots/Radar_Chart.png)
